@@ -43,18 +43,6 @@ title: Portfolio của Đạt
 <br>
 
 ---
-## Experience & Education
-
-### Sai Gon University
-**Software Engineering** | *June 2026*  
-**Current GPA:** 2.85/4.0  
-**Coursework:** Object-Oriented Programming, Data Structures & Algorithms, Embedded Systems, Discrete Math, Linear Algebra, Calculus, Physics, Probability & Statistics.
-
-### Academic Research
-**Software Engineering & Computer Science** | *2023 - Present*  
-Conducted research on various topics in software engineering and computer science.
-
----
 ## Skills
 
 - **Languages:** C/C++, Python, Java, JavaScript/TypeScript, HTML/CSS, LaTeX
