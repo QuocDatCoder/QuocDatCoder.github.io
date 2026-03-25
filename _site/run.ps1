@@ -1,0 +1,1 @@
+docker run --rm -it -v ${PWD}:/srv/jekyll -p 4000:4000 jekyll/jekyll bash -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --force_polling"
